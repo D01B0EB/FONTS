@@ -1,10 +1,10 @@
 # FONTS
 
-1. D0LB0EB-ULINE (uppercase font)
+1. D0LB0EB-ULINE (monospace, uppercase)
 
 <img width="860" height="310" alt="d01b0eb-uline-preview" src="https://github.com/user-attachments/assets/0f92c28f-1264-4df6-93d1-dce152437889" />
 
-2. zer0c0de (horizontal bidirectional uppercase font)
+2. zer0c0de (monospace, horizontal bidirectional, uppercase)
 
 <img width="860" height="310" alt="zer0c0de-preview" src="https://github.com/user-attachments/assets/77ae4e42-4d5d-465a-9443-a907a091fa4e" />
 <img width="1920" height="1044" alt="zer0c0de-preview clion" src="https://github.com/user-attachments/assets/89debdb8-796c-4902-b5dd-24725dbbfe66" />
