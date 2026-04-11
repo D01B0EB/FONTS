@@ -11,6 +11,7 @@
 <img width="1920" height="1044" alt="zer0c0de-preview firefox" src="https://github.com/user-attachments/assets/83a62b71-f402-4b3c-8b48-8db2f8acea65" />
 <img width="1920" height="1044" alt="zer0c0de-preview firefox 1" src="https://github.com/user-attachments/assets/f3e759f1-97f9-4cf4-b220-06faf3bd4cc2" />
 <img width="1920" height="1044" alt="zer0c0de-preview clion" src="https://github.com/user-attachments/assets/89debdb8-796c-4902-b5dd-24725dbbfe66" />
+<img width="1920" height="1044" alt="zer0c0de-preview rustrover 0" src="https://github.com/user-attachments/assets/e1ecc647-2d01-4ead-9bb2-17a080acf98c" />
 <img width="2050" height="1174" alt="zer0c0de-preview cutter 0" src="https://github.com/user-attachments/assets/4ab4d956-3fe1-435a-994c-70ec366b3a09" />
 <img width="2050" height="1174" alt="zer0c0de-preview cutter 4" src="https://github.com/user-attachments/assets/534fd436-e0af-4d99-8fbc-9b7b7ca23bd2" />
 <img width="2050" height="1174" alt="zer0c0de-preview cutter 3" src="https://github.com/user-attachments/assets/78c67428-e793-4c83-b305-a7ac47bb2bec" />
