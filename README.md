@@ -6,7 +6,7 @@
 <br /> 
 <br /> 
 
-**2. zer0c0de (monospace, horizontal bidirectional, uppercase)**
+**2. ZER0C0DE (monospace, horizontal bidirectional, uppercase)**
 
 <img width="860" height="310" alt="zer0c0de-preview" src="https://github.com/user-attachments/assets/77ae4e42-4d5d-465a-9443-a907a091fa4e" />
 <img width="1920" height="1044" alt="zer0c0de-preview firefox 2" src="https://github.com/user-attachments/assets/82a98d4a-6388-458f-9b02-a0c299d16355" />
